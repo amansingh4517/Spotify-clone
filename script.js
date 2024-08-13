@@ -1,0 +1,1 @@
+alert("Open website in fullscreen(not resposive)")
